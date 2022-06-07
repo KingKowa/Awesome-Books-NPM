@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KingKowa/Awesome-Books-NPM/issues"
   },
-  "homepage": "https://github.com/KingKowa/Awesome-Books-NPM#readme"
+  "homepage": "https://github.com/KingKowa/Awesome-Books-NPM#readme",
+  "dependencies": {
+    "luxon": "^2.4.0"
+  }
 }
