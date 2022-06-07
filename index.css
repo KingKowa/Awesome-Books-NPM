@@ -3,6 +3,16 @@
   padding: 0;
 }
 
+.contact-info li {
+  display: flex;
+  gap: 30px;
+  align-items: flex-start;
+}
+
+.contact-info > li {
+  margin-top: 20px;
+}
+
 .bookslist {
   border: 1px solid #0b0b0b;
   margin: 15px;
@@ -70,19 +80,9 @@ div .line {
 
 .contact {
   width: 50%;
-  margin:0 30%;
-  padding: auto;
+  margin: 0 30%;
+  padding: 0;
   margin-bottom: 50px;
-}
-
-.contact-info li {
-  display: flex;
-  gap: 30px;
-  align-items: flex-start;
-}
-
-.contact-info > li {
-  margin-top: 20px;
 }
 
 .contact h2 {
