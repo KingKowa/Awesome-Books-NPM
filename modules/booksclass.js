@@ -47,7 +47,7 @@ const addbook = (title, author) => {
 };
 
 const submitbtn = document.getElementById('submit');
-  submitbtn.addEventListener('click', () => {
+submitbtn.addEventListener('click', () => {
   const title = document.getElementById('input-title');
   const author = document.getElementById('input-author');
   const titleIpnut = title.value;

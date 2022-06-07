@@ -1,6 +1,6 @@
 const navlinks = () => {
   const Links = document.querySelectorAll('.links');
-  Links.forEach(link => {
+  Links.forEach((link) => {
     link.addEventListener('click', () => {
       const sections = document.querySelectorAll('section');
       sections.forEach((sec) => {
