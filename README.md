@@ -1,56 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome books
 
-> Description the project.
+## Awesome books
+This project has been modified with ES6 modules.
+
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- JAVASCRIPT
+- CSS
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get started with this book run index.html in your browser then it will gives you all the functionalities 
 
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+## Live Demo
+[see awesome books live]()
 
 ## Authors
 
-👤 **Author1**
+👤 **Frederick Ankomah**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/kingkowa)
+- Twitter: [@twitterhandle](https://twitter.com/kingkowa1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/frederickankomah)
 
 ## 🤝 Contributing
 
@@ -64,9 +43,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Tis is our own project
+- No where else you can find it
+
 
 ## 📝 License
 
